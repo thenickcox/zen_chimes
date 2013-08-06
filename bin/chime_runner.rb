@@ -13,7 +13,7 @@ play_chime('single')
 puts "=[Zen Chimes]=================================================="
 puts "= Running: '#{ARGV.join(' ')}'"
 puts "= "
-puts "= Take this time to breath and focus."
+puts "= Take this time to breathe and focus."
 puts "==============================================================="
 puts ""
 
