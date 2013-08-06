@@ -9,7 +9,7 @@ Command Wrapper for OSX that plays a Zen chime before/after running
     =[Zen Chimes]==================================================
     = Running: 'rake test'
     =
-    = Take this time to breath and focus.
+    = Take this time to breathe and focus.
     ===============================================================
     
     Run options:
